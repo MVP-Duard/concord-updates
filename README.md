@@ -1,2 +1,3 @@
-# concord-updates
-Arquivos públicos de atualização do Concord. Não contém código-fonte.
+# Concord
+
+Arquivos públicos de atualização do Concord.
